@@ -7,3 +7,6 @@
 [submodule "mission2"]
 	path = mission2
 	url = git@github.com:ThiagoKS-7/multicloud-mission2.git
+[submodule "multicloud-mission3"]
+	path = multicloud-mission3
+	url = git@github.com:ThiagoKS-7/multicloud-mission3.git
